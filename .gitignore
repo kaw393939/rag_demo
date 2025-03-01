@@ -24,6 +24,7 @@ venv
 *pycache*
 .streamlit
 # Virtual Environment
+.env
 venv/
 env/
 ENV/
